@@ -1,2 +1,6 @@
-/roblox-typescript-hello.iml
+/node_modules
+/out
+/include
+*.tsbuildinfo
 /.idea/
+/roblox-typescript-hello.iml
